@@ -9,7 +9,7 @@ sites:
     port: 8080
   - name: s1.intecom.cloud
     url: https://s1.intecom.cloud
-  - name: unifi server
+  - name: unifi.intecom.cat
     check: "tcp-ping"
     url: https://unifi.intecom.cat
     port: 8443
