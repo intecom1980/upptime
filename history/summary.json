@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 971,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 1070,
+    "timeDay": 1070,
+    "timeWeek": 1070,
+    "timeMonth": 1070,
+    "timeYear": 1070,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://unifi.intecom.cat",
     "icon": "https://favicons.githubusercontent.com/unifi.intecom.cat",
     "slug": "unifi-server",
-    "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "status": "up",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 9
+      "2022-02-01": 12
     }
   }
 ]
