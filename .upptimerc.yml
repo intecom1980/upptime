@@ -10,7 +10,9 @@ sites:
   - name: s1.intecom.cloud
     url: https://s1.intecom.cloud
   - name: unifi server
+    check: "tcp-ping"
     url: https://unifi.intecom.cat
+    port: 8443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
