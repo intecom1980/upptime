@@ -4,19 +4,19 @@
     "url": "https://srv.intecom.cloud",
     "icon": "https://favicons.githubusercontent.com/srv.intecom.cloud",
     "slug": "srv-intecom-cloud",
-    "status": "down",
-    "uptime": "10.51%",
-    "uptimeDay": "10.51%",
-    "uptimeWeek": "10.51%",
-    "uptimeMonth": "10.51%",
-    "uptimeYear": "10.51%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "status": "up",
+    "uptime": "1.03%",
+    "uptimeDay": "1.03%",
+    "uptimeWeek": "1.03%",
+    "uptimeMonth": "1.03%",
+    "uptimeYear": "1.03%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 9
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1231,
-    "timeDay": 1231,
-    "timeWeek": 1231,
-    "timeMonth": 1231,
-    "timeYear": 1231,
+    "time": 971,
+    "timeDay": 971,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/unifi.intecom.cat",
     "slug": "unifi-server",
     "status": "down",
-    "uptime": "4.21%",
-    "uptimeDay": "4.21%",
-    "uptimeWeek": "4.21%",
-    "uptimeMonth": "4.21%",
-    "uptimeYear": "4.21%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 9
     }
   }
 ]
