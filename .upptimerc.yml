@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: srv.intecom.cloud
+    check: "tcp-ping"
     url: https://srv.intecom.cloud
+    port: 8080
   - name: s1.intecom.cloud
     url: https://s1.intecom.cloud
   - name: unifi server
