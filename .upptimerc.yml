@@ -13,6 +13,8 @@ sites:
     check: "tcp-ping"
     url: https://unifi.intecom.cat
     port: 8443
+  - name: Golf Mar 2
+    url: http://84a107d35b90.sn.mynetname.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
