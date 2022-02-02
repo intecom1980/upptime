@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/84a107d35b90.sn.mynetname.net",
     "slug": "golf-mar-2",
     "status": "up",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-02": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
