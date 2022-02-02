@@ -1,6 +1,6 @@
 [
   {
-    "name": "srv.intecom.cloud",
+    "name": "SRV INTECOM CLOUD",
     "url": "https://srv.intecom.cloud",
     "icon": "https://favicons.githubusercontent.com/srv.intecom.cloud",
     "slug": "srv-intecom-cloud",
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "s1.intecom.cloud",
+    "name": "S1 INTECOM CLOUD",
     "url": "https://s1.intecom.cloud",
     "icon": "https://favicons.githubusercontent.com/s1.intecom.cloud",
     "slug": "s1-intecom-cloud",
@@ -28,18 +28,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 909,
-    "timeWeek": 909,
-    "timeMonth": 909,
-    "timeYear": 909,
+    "time": 931,
+    "timeDay": 931,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
-    "name": "unifi.intecom.cat",
+    "name": "UNIFI INTECOM",
     "url": "https://unifi.intecom.cat",
     "icon": "https://favicons.githubusercontent.com/unifi.intecom.cat",
-    "slug": "unifi-intecom-cat",
+    "slug": "unifi-intecom",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
