@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 898,
-    "timeWeek": 898,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "time": 928,
+    "timeDay": 928,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -52,5 +52,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Golf Mar 2",
+    "url": "http://84a107d35b90.sn.mynetname.net/",
+    "icon": "https://favicons.githubusercontent.com/84a107d35b90.sn.mynetname.net",
+    "slug": "golf-mar-2",
+    "status": "down",
+    "uptime": "34.75%",
+    "uptimeDay": "34.75%",
+    "uptimeWeek": "34.75%",
+    "uptimeMonth": "34.75%",
+    "uptimeYear": "34.75%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
