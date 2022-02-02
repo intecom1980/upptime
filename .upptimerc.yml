@@ -14,6 +14,7 @@ sites:
     url: https://unifi.intecom.cat
     port: 8443
   - name: Golf Mar 2
+    check: "tcp-ping"
     url: http://84a107d35b90.sn.mynetname.net/
     port: 8291
 
