@@ -17,6 +17,8 @@ sites:
     check: "tcp-ping"
     url: http://84a107d35b90.sn.mynetname.net/
     port: 8291
+  - name: GOLF RELAX
+    url: a36a0c0ae39e.sn.mynetname.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
