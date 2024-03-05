@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srv.intecom.cloud.ico",
     "slug": "srv-intecom-cloud",
     "status": "down",
-    "uptime": "13.79%",
+    "uptime": "13.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 31,
+      "2024-03-05": 520,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
@@ -388,9 +388,9 @@
     "url": "https://s1.intecom.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/s1.intecom.cloud.ico",
     "slug": "s1-intecom-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -399,7 +399,9 @@
     "timeWeek": 1325,
     "timeMonth": 1219,
     "timeYear": 1223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "UNIFI INTECOM",
@@ -407,11 +409,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.intecom.cat.ico",
     "slug": "unifi-intecom",
     "status": "up",
-    "uptime": "24.20%",
+    "uptime": "24.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.64%",
+    "uptimeYear": "21.73%",
     "time": 125,
     "timeDay": 161,
     "timeWeek": 131,
@@ -722,7 +724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-05": 31,
+      "2024-03-05": 521,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
