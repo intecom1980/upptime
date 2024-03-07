@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srv.intecom.cloud.ico",
     "slug": "srv-intecom-cloud",
     "status": "down",
-    "uptime": "13.77%",
+    "uptime": "13.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 32,
+      "2024-03-07": 26,
+      "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -379,8 +380,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "s1-intecom-cloud",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 1165,
-    "timeDay": 1042,
-    "timeWeek": 1291,
-    "timeMonth": 1212,
+    "timeDay": 1039,
+    "timeWeek": 1269,
+    "timeMonth": 1203,
     "timeYear": 1222,
     "dailyMinutesDown": {
       "2024-03-05": 87
@@ -409,15 +409,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.intecom.cat.ico",
     "slug": "unifi-intecom",
     "status": "up",
-    "uptime": "24.30%",
+    "uptime": "24.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.91%",
+    "uptimeYear": "22.19%",
     "time": 124,
-    "timeDay": 94,
-    "timeWeek": 128,
-    "timeMonth": 129,
+    "timeDay": 93,
+    "timeWeek": 125,
+    "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2023-12-16": 48,
@@ -702,8 +702,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -712,7 +711,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/84a107d35b90.sn.mynetname.net.ico",
     "slug": "golf-mar-2",
     "status": "down",
-    "uptime": "13.67%",
+    "uptime": "13.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -723,7 +722,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 32,
+      "2024-03-07": 26,
+      "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -1086,8 +1086,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -1103,8 +1102,8 @@
     "uptimeYear": "99.88%",
     "time": 277,
     "timeDay": 106,
-    "timeWeek": 147,
-    "timeMonth": 147,
+    "timeWeek": 141,
+    "timeMonth": 145,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2023-12-25": 151,
