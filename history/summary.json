@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 42,
+      "2024-11-08": 328,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -423,7 +423,7 @@
     "timeMonth": 0,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-11-08": 42,
+      "2024-11-08": 328,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -680,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 42,
+      "2024-11-08": 328,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -1052,9 +1052,9 @@
     "url": "a36a0c0ae39e.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golf-relax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "89.62%",
+    "uptimeDay": "89.61%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.85%",
@@ -1064,6 +1064,7 @@
     "timeMonth": 123,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-11-07": 149,
       "2024-10-17": 126,
       "2024-10-16": 46,
