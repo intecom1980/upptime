@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 52,
+      "2025-11-27": 51,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -379,8 +380,7 @@
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
-      "2024-11-28": 1440,
-      "2024-11-27": 1440
+      "2024-11-28": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1002,
-    "timeDay": 1483,
-    "timeWeek": 1258,
-    "timeMonth": 1068,
+    "time": 1003,
+    "timeDay": 1246,
+    "timeWeek": 1263,
+    "timeMonth": 1071,
     "timeYear": 993,
     "dailyMinutesDown": {}
   },
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.intecom.cat.ico",
     "slug": "unifi-intecom",
     "status": "down",
-    "uptime": "16.74%",
+    "uptime": "16.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 52,
+      "2025-11-27": 51,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -781,8 +782,7 @@
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
-      "2024-11-28": 1440,
-      "2024-11-27": 1440
+      "2024-11-28": 1440
     }
   },
   {
@@ -791,7 +791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/84a107d35b90.sn.mynetname.net.ico",
     "slug": "golf-mar-2",
     "status": "down",
-    "uptime": "7.49%",
+    "uptime": "7.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 52,
+      "2025-11-27": 51,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -1165,8 +1166,7 @@
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
-      "2024-11-28": 1440,
-      "2024-11-27": 1440
+      "2024-11-28": 1440
     }
   },
   {
@@ -1175,18 +1175,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golf-relax",
     "status": "down",
-    "uptime": "98.79%",
+    "uptime": "98.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.57%",
-    "uptimeMonth": "78.23%",
-    "uptimeYear": "95.71%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.94%",
+    "uptimeYear": "95.44%",
     "time": 124,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 133,
+    "timeMonth": 132,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-11-26": 52,
+      "2025-11-27": 51,
+      "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
