@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 402,
+      "2026-03-24": 459,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -388,19 +388,19 @@
     "url": "https://s1.intecom.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/s1.intecom.cloud.ico",
     "slug": "s1-intecom-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1054,
-    "timeDay": 1154,
-    "timeWeek": 1252,
-    "timeMonth": 1270,
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 1055,
+    "timeDay": 1144,
+    "timeWeek": 1237,
+    "timeMonth": 1265,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2026-03-24": 0
+      "2026-03-24": 56
     }
   },
   {
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 402,
+      "2026-03-24": 459,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-24": 402,
+      "2026-03-24": 459,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
       "2026-03-21": 1440,
