@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 728,
+      "2026-07-04": 833,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 729,
+      "2026-07-04": 833,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 729,
+      "2026-07-04": 833,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -1176,14 +1176,14 @@
     "url": "a36a0c0ae39e.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golf-relax",
-    "status": "down",
+    "status": "up",
     "uptime": "96.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "88.62%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "88.60%",
     "time": 125,
-    "timeDay": 164,
+    "timeDay": 139,
     "timeWeek": 113,
     "timeMonth": 120,
     "timeYear": 126,
@@ -1237,7 +1237,7 @@
       "2026-02-22": 20,
       "2026-03-26": 117,
       "2026-05-16": 88,
-      "2026-07-04": 0
+      "2026-07-04": 104
     }
   }
 ]
