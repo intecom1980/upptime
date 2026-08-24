@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 550,
+      "2026-08-24": 885,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 550,
+      "2026-08-24": 886,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -793,7 +793,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/84a107d35b90.sn.mynetname.net.ico",
     "slug": "golf-mar-2",
     "status": "down",
-    "uptime": "6.27%",
+    "uptime": "6.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 550,
+      "2026-08-24": 886,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -1176,16 +1176,16 @@
     "url": "a36a0c0ae39e.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "golf-relax",
-    "status": "down",
-    "uptime": "96.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "88.61%",
-    "time": 125,
-    "timeDay": 129,
-    "timeWeek": 122,
-    "timeMonth": 122,
+    "status": "up",
+    "uptime": "96.86%",
+    "uptimeDay": "76.71%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "88.55%",
+    "time": 126,
+    "timeDay": 145,
+    "timeWeek": 126,
+    "timeMonth": 123,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-11-05": 119,
@@ -1236,7 +1236,7 @@
       "2026-05-16": 88,
       "2026-07-04": 104,
       "2026-08-04": 160,
-      "2026-08-24": 0
+      "2026-08-24": 335
     }
   }
 ]
